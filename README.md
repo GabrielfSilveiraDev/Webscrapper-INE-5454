@@ -40,12 +40,12 @@ Funcionalidades
   python webscrapper_sp.py      # Para TCE-SP  
   python webscrapper_rj.py      # Para TCE-RJ
 
-Os dados serão salvos como:
+4. Rode o webscraper para um dos estados
 
   servidores_tce_sc_estruturado.json # Para TCE-SC
   servidores_tce_sp_estruturado.json # Para TCE-SP  
   servidores_tce_rj_estruturado.json # Para TCE-RJ
 
-4. Inicie o dashboard
+5. Inicie o dashboard
 
   streamlit run dashboard.py

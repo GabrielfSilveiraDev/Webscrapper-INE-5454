@@ -4,7 +4,7 @@ Este projeto realiza a coleta, tratamento e visualização de dados de remunera�
 
 Funcionalidades
 
-- Webscraping com **Selenium** dos portais de transparência dos TCEs.
+- Webscraping com Selenium dos portais de transparência dos TCEs.
 - Estruturação dos dados em JSON (padronizado).
 - Dashboard interativo com **Streamlit** para análise dos dados:
   - Comparativo entre estados.
@@ -27,7 +27,7 @@ Funcionalidades
 1. Clone o repositório
 
   git clone https://github.com/GabrielfSilveiraDev/Webscrapper-INE-5454.git
-  cd transparencia-tces
+  cd Webscrapper-INE-5454
 
 2. Instale as dependências
    
@@ -48,4 +48,4 @@ Funcionalidades
 
 5. Inicie o dashboard
 
-  streamlit run dashboard.py
+  streamlit run Dashboards.py

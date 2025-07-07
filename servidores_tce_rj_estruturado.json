@@ -1,0 +1,2705 @@
+[
+  {
+    "nome": "ABEL LUIZ FERREIRA OLIVEIRA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "0,00",
+    "total_proventos": "0,00",
+    "total_descontos": "0,00",
+    "proventos": []
+  },
+  {
+    "nome": "ACIREMA MARIA RIBEIRO DOS SANTOS",
+    "cargo": "Analista - Área Organizacional ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "30.564,91",
+    "total_proventos": "30.564,91",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "44.025,14"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "6.588,61"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.213,95"
+      }
+    ]
+  },
+  {
+    "nome": "ACYR DE PAULA LOBO",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "30.771,44",
+    "total_proventos": "38.994,85",
+    "total_descontos": "-8.223,41",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "57.023,31"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "45.942,59"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.865,70"
+      }
+    ]
+  },
+  {
+    "nome": "ADELAIDE MARQUES REI ALBAGLI",
+    "cargo": "Analista - Área Organizacional ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "28.350,96",
+    "total_proventos": "28.350,96",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "49.389,45"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.825,05"
+      }
+    ]
+  },
+  {
+    "nome": "ADELEA NEVES GONZAGA BARBOSA",
+    "cargo": "Auxiliar Administrativo AUXILIAR 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "26.291,02",
+    "total_proventos": "26.291,02",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "24.649,98"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.950,00"
+      }
+    ]
+  },
+  {
+    "nome": "ADELINA EULINA MOURÃO VIEIRA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "37.155,33",
+    "total_proventos": "38.434,91",
+    "total_descontos": "-1.279,58",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "45.547,22"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.305,76"
+      }
+    ]
+  },
+  {
+    "nome": "ADEMAR TINOCO GOULART",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "23.123,90",
+    "total_proventos": "31.496,97",
+    "total_descontos": "-8.373,07",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "44.336,90"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "13.990,99"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.565,33"
+      }
+    ]
+  },
+  {
+    "nome": "ADHEMAR COSME SARMENTO ALVES",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "28.967,05",
+    "total_proventos": "30.227,36",
+    "total_descontos": "-1.260,31",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "44.336,90"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "20.209,27"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.400,00"
+      }
+    ]
+  },
+  {
+    "nome": "ADHEMAR COSME SARMENTO ALVES",
+    "cargo": "Assistente CCDAL-5",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "9.889,32",
+    "total_proventos": "9.931,90",
+    "total_descontos": "-42,58",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.893,58"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "468,27"
+      }
+    ]
+  },
+  {
+    "nome": "ADNEIA LURDES GOMES DA CUNHA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "30.747,78",
+    "total_proventos": "30.796,78",
+    "total_descontos": "-49,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "40.992,54"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.977,63"
+      }
+    ]
+  },
+  {
+    "nome": "ADONIS FERREIRA DA SILVA SOBRINHO",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "30.099,35",
+    "total_proventos": "30.364,94",
+    "total_descontos": "-265,59",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "33.475,35"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "816,47"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.418,27"
+      }
+    ]
+  },
+  {
+    "nome": "ADRIANA AMORIM RIBEIRO",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "29.476,03",
+    "total_proventos": "29.539,90",
+    "total_descontos": "-63,87",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "35.881,20"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "696,72"
+      },
+      {
+        "descricao": "Abono de Permanência (4)",
+        "valor": "5.023,37"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.112,18"
+      }
+    ]
+  },
+  {
+    "nome": "ADRIANA ANTUNES COSTA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 3",
+    "tipo": "EFETIVO",
+    "salario_liquido": "32.772,88",
+    "total_proventos": "32.985,78",
+    "total_descontos": "-212,90",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "28.758,36"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "701,42"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.956,09"
+      },
+      {
+        "descricao": "Férias (6)",
+        "valor": "8.057,98"
+      }
+    ]
+  },
+  {
+    "nome": "ADRIANA CARVALHO DE MENDONÇA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "27.185,19",
+    "total_proventos": "30.977,36",
+    "total_descontos": "-3.792,17",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "42.951,36"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "22.104,24"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "ADRIANA DE SOUZA MACHADO",
+    "cargo": "Auxiliar Administrativo AUXILIAR 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "46.429,52",
+    "total_proventos": "46.429,52",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "44.678,28"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "613,59"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "8.744,32"
+      },
+      {
+        "descricao": "Abono de Permanência (4)",
+        "valor": "4.423,99"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.436,63"
+      }
+    ]
+  },
+  {
+    "nome": "ADRIANA HUDSON DA SILVA",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "25.554,82",
+    "total_proventos": "25.586,22",
+    "total_descontos": "-31,40",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "33.475,35"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.977,63"
+      }
+    ]
+  },
+  {
+    "nome": "ADRIANA JACOB",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "31.967,75",
+    "total_proventos": "32.126,89",
+    "total_descontos": "-159,14",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "34.759,93"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "674,95"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "8.744,32"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.304,05"
+      }
+    ]
+  },
+  {
+    "nome": "ADRIANA LOPES DE CASTRO",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "25.923,50",
+    "total_proventos": "31.974,78",
+    "total_descontos": "-6.051,28",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "45.667,01"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "45.634,56"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.147,42"
+      }
+    ]
+  },
+  {
+    "nome": "ADRIANA RAMOS COSTA",
+    "cargo": "Diretor-Geral DG",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "32.760,74",
+    "total_proventos": "32.824,61",
+    "total_descontos": "-63,87",
+    "proventos": [
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "45.033,64"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.215,69"
+      }
+    ]
+  },
+  {
+    "nome": "ADRIANA VIANNA PASSOS VALENÇA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "33.923,36",
+    "total_proventos": "34.114,97",
+    "total_descontos": "-191,61",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "44.244,54"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "3.826,56"
+      },
+      {
+        "descricao": "Abono de Permanência (4)",
+        "valor": "5.858,37"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.868,27"
+      }
+    ]
+  },
+  {
+    "nome": "ADRIANE COSTA PEREIRA",
+    "cargo": "Assessor CCDAL-4",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "13.598,19",
+    "total_proventos": "13.598,19",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "8.524,54"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.268,27"
+      }
+    ]
+  },
+  {
+    "nome": "ADRIANNE DA SILVA BRANDAO POZZATO",
+    "cargo": "Assessor CCDAL-3",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "18.411,72",
+    "total_proventos": "18.411,72",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "9.155,30"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "8.744,32"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "5.215,69"
+      }
+    ]
+  },
+  {
+    "nome": "ADRIANO REIS DE CARVALHO",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "29.878,93",
+    "total_proventos": "29.910,33",
+    "total_descontos": "-31,40",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "35.881,20"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "5.697,42"
+      }
+    ]
+  },
+  {
+    "nome": "ADYLAN SEIXAS RANGEL",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "28.335,96",
+    "total_proventos": "28.350,96",
+    "total_descontos": "-15,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "60.292,00"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "33.595,92"
+      }
+    ]
+  },
+  {
+    "nome": "AGNALDO TULLER GONÇALVES",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "21.721,77",
+    "total_proventos": "27.945,63",
+    "total_descontos": "-6.223,86",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "32.517,35"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "631,40"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "6.148,16"
+      }
+    ]
+  },
+  {
+    "nome": "AGUEDA GLORIA SABINO DE MATOS",
+    "cargo": "Cedidos",
+    "tipo": "À DISPOSIÇÃO DO TCE COM CARGO EM COMISSÃO - RPPS",
+    "salario_liquido": "8.441,04",
+    "total_proventos": "8.441,04",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "5.481,56"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "2.636,76"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.646,53"
+      }
+    ]
+  },
+  {
+    "nome": "AIDA VIDAL MORAES",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "32.182,06",
+    "total_proventos": "32.300,96",
+    "total_descontos": "-118,90",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "45.975,27"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "20.345,68"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.950,00"
+      }
+    ]
+  },
+  {
+    "nome": "AILTON DA SILVA VIANNA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 3",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "27.098,65",
+    "total_proventos": "27.098,65",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "28.304,36"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.614,86"
+      }
+    ]
+  },
+  {
+    "nome": "AILTON GONÇALVES FILHO",
+    "cargo": "Analista - Área Organizacional ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "31.293,09",
+    "total_proventos": "31.373,09",
+    "total_descontos": "-80,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "48.602,88"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "1.883,99"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.022,13"
+      }
+    ]
+  },
+  {
+    "nome": "AILTON SALES SA FILHO",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "23.951,35",
+    "total_proventos": "35.717,11",
+    "total_descontos": "-11.765,76",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "45.667,01"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "886,74"
+      },
+      {
+        "descricao": "Abono de Permanência (4)",
+        "valor": "5.858,37"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.418,27"
+      }
+    ]
+  },
+  {
+    "nome": "AIRELLE BARBOSA SANTOS",
+    "cargo": "Assistente CCDAL-5",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "10.872,56",
+    "total_proventos": "10.872,56",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.893,58"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.408,93"
+      }
+    ]
+  },
+  {
+    "nome": "ALAN DO VALLE GONÇALVES",
+    "cargo": "Não se aplica",
+    "tipo": "À DISPOSIÇÃO DO TCE COM ONUS COM GRATIFICAÇÃO - RP",
+    "salario_liquido": "10.073,75",
+    "total_proventos": "13.369,79",
+    "total_descontos": "-3.296,04",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "12.184,46"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.575,19"
+      }
+    ]
+  },
+  {
+    "nome": "ALAN FERNANDES VIEIRA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 3",
+    "tipo": "EFETIVO",
+    "salario_liquido": "26.510,11",
+    "total_proventos": "26.784,30",
+    "total_descontos": "-274,19",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "25.687,69"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "498,79"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.815,69"
+      }
+    ]
+  },
+  {
+    "nome": "ALBA DE CAVALCANTI PESSOA IGREJAS LOPES",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "23.030,42",
+    "total_proventos": "37.129,15",
+    "total_descontos": "-14.098,73",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "34.088,38"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "31.084,38"
+      }
+    ]
+  },
+  {
+    "nome": "ALBA DE CAVALCANTI PESSOA IGREJAS LOPES",
+    "cargo": "Não se aplica",
+    "tipo": "PENSIONISTA DE CONSELHEIRO COM PARIDADE",
+    "salario_liquido": "-11.637,50",
+    "total_proventos": "-8.369,09",
+    "total_descontos": "-3.268,41",
+    "proventos": []
+  },
+  {
+    "nome": "ALBANO DA SILVA PINTO TEIXEIRA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "26.013,25",
+    "total_proventos": "30.010,81",
+    "total_descontos": "-3.997,56",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "45.667,01"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.578,48"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.131,31"
+      }
+    ]
+  },
+  {
+    "nome": "ALBERTO CORREA E CASTRO NETO",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "27.838,10",
+    "total_proventos": "34.797,63",
+    "total_descontos": "-6.959,53",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "33.450,58"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "5.683,83"
+      }
+    ]
+  },
+  {
+    "nome": "ALBERTO DE FONTES TAVARES NETO",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO",
+    "salario_liquido": "33.243,29",
+    "total_proventos": "33.328,45",
+    "total_descontos": "-85,16",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "32.112,60"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "308,78"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "12.630,78"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "5.341,17"
+      }
+    ]
+  },
+  {
+    "nome": "ALBERTO TAVARES DE SALLES",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "28.063,38",
+    "total_proventos": "28.063,38",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "39.500,26"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "1.883,99"
+      }
+    ]
+  },
+  {
+    "nome": "ALBINO GUIMARÃES DA SILVA",
+    "cargo": "Auxiliar Administrativo AUXILIAR 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "23.985,94",
+    "total_proventos": "23.985,94",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "25.236,36"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.140,63"
+      }
+    ]
+  },
+  {
+    "nome": "ALCENI LOURENÇO PEREIRA DA SILVA",
+    "cargo": "Auxiliar Administrativo AUXILIAR 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "11.658,59",
+    "total_proventos": "26.291,57",
+    "total_descontos": "-14.632,98",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "31.669,22"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "2.780,38"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.479,44"
+      }
+    ]
+  },
+  {
+    "nome": "ALCINA MARIA CARVALHO CAVALCANTE",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "31.377,27",
+    "total_proventos": "31.447,27",
+    "total_descontos": "-70,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "51.613,10"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "18.943,29"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.096,31"
+      }
+    ]
+  },
+  {
+    "nome": "ALCIR DIAS DE SOUZA",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "18.139,13",
+    "total_proventos": "27.358,32",
+    "total_descontos": "-9.219,19",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "35.881,20"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "696,72"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.468,27"
+      }
+    ]
+  },
+  {
+    "nome": "ALDA DE SIQUEIRA ROCHA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "31.500,96",
+    "total_proventos": "31.500,96",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "48.387,31"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "2.780,38"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "ALDA MARIA ARAUJO COUTINHO CORREA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "28.350,96",
+    "total_proventos": "28.350,96",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "47.828,56"
+      }
+    ]
+  },
+  {
+    "nome": "ALDA TERESA TORRES TEIXEIRA PINTO",
+    "cargo": "Analista - Área Organizacional ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "32.300,96",
+    "total_proventos": "32.300,96",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "47.633,95"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "10.433,62"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.950,00"
+      }
+    ]
+  },
+  {
+    "nome": "ALDECI DE AZEVEDO ALMEIDA",
+    "cargo": "Auxiliar de Serviço Especializado AUXILIAR 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "26.763,58",
+    "total_proventos": "30.304,96",
+    "total_descontos": "-3.541,38",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "31.669,22"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "791,73"
+      },
+      {
+        "descricao": "Abono de Permanência (4)",
+        "valor": "4.433,69"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "5.757,77"
+      }
+    ]
+  },
+  {
+    "nome": "ALDENOR MOTA MONTE",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "22.218,95",
+    "total_proventos": "22.218,95",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "19.915,02"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.950,00"
+      }
+    ]
+  },
+  {
+    "nome": "ALEIR DE SOUZA RAMOS",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "31.500,96",
+    "total_proventos": "31.500,96",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "42.951,36"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "ALENA MOURA CRUZ CELLES CORDEIRO",
+    "cargo": "Não se aplica",
+    "tipo": "À DISPOSIÇÃO DO TCE COM ONUS COM GRATIFICAÇÃO - RP",
+    "salario_liquido": "11.751,49",
+    "total_proventos": "11.857,94",
+    "total_descontos": "-106,45",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "12.184,46"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.115,48"
+      }
+    ]
+  },
+  {
+    "nome": "ALESSANDRA FUKS",
+    "cargo": "Cedidos",
+    "tipo": "À DISPOSIÇÃO DO TCE COM ONUS COM CARGO EM COMISSÃO - RPS",
+    "salario_liquido": "12.147,59",
+    "total_proventos": "12.232,75",
+    "total_descontos": "-85,16",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.893,58"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.027,06"
+      }
+    ]
+  },
+  {
+    "nome": "ALESSANDRO CARVALHO LIMA",
+    "cargo": "Auxiliar Administrativo AUXILIAR 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "28.753,20",
+    "total_proventos": "29.015,99",
+    "total_descontos": "-262,79",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "30.127,83"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "734,83"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "5.215,69"
+      }
+    ]
+  },
+  {
+    "nome": "ALESSANDRO DOS SANTOS GUIMARÃES",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO",
+    "salario_liquido": "33.603,91",
+    "total_proventos": "33.603,91",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "33.027,05"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "641,30"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "8.744,32"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "5.184,47"
+      },
+      {
+        "descricao": "Férias (6)",
+        "valor": "472,85"
+      }
+    ]
+  },
+  {
+    "nome": "ALESSANDRO FRANCISCO SILVA DE OLIVEIRA",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "15.843,64",
+    "total_proventos": "31.908,79",
+    "total_descontos": "-16.065,15",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "34.759,93"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "674,95"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.861,74"
+      }
+    ]
+  },
+  {
+    "nome": "ALESSANDRO MENDES DA SILVA",
+    "cargo": "Assessor CCDAL-4",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "13.491,74",
+    "total_proventos": "13.598,19",
+    "total_descontos": "-106,45",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "8.524,54"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.268,27"
+      }
+    ]
+  },
+  {
+    "nome": "ALESSANDRO RIBEIRO RIOS",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO",
+    "salario_liquido": "21.750,00",
+    "total_proventos": "30.972,18",
+    "total_descontos": "-9.222,18",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "33.995,38"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "5.188,94"
+      }
+    ]
+  },
+  {
+    "nome": "ALEX FERREIRA LAMEIRA",
+    "cargo": "Auxiliar Administrativo AUXILIAR 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "23.805,81",
+    "total_proventos": "25.587,98",
+    "total_descontos": "-1.782,17",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "30.679,56"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.976,43"
+      }
+    ]
+  },
+  {
+    "nome": "ALEX FRAZÃO ATHAYDE",
+    "cargo": "Auxiliar de Serviço Especializado AUXILIAR 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "25.583,21",
+    "total_proventos": "25.739,55",
+    "total_descontos": "-156,34",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "31.446,55"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "766,99"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.615,69"
+      }
+    ]
+  },
+  {
+    "nome": "ALEX SOUZA RAPOSO CORREA",
+    "cargo": "Técnico TECNICO 3",
+    "tipo": "EFETIVO",
+    "salario_liquido": "18.247,59",
+    "total_proventos": "18.354,04",
+    "total_descontos": "-106,45",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "15.697,98"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "304,82"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.509,70"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE ANGLADA RODRIGUES",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "30.566,46",
+    "total_proventos": "30.566,46",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "41.385,73"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "803,61"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.468,27"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE AUGUSTO CANDIDO CARDOSO",
+    "cargo": "Coordenador-Geral CCDAL-1",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "22.462,88",
+    "total_proventos": "22.462,88",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "10.416,59"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "12.630,78"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.752,67"
+      },
+      {
+        "descricao": "Férias (6)",
+        "valor": "677,79"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE DE ALMEIDA SANTOS",
+    "cargo": "Auxiliar Administrativo AUXILIAR 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "28.550,21",
+    "total_proventos": "31.435,52",
+    "total_descontos": "-2.885,31",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "32.619,30"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "633,38"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.746,49"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE DE ARAUJO FARO JUNIOR",
+    "cargo": "Auxiliar Administrativo AUXILIAR 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "24.096,62",
+    "total_proventos": "29.001,77",
+    "total_descontos": "-4.905,15",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "29.417,73"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "3.118,93"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "6.088,81"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE DE AZEVEDO GAMA",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "32.192,92",
+    "total_proventos": "32.501,09",
+    "total_descontos": "-308,17",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "32.359,50"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "789,26"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "5.756,76"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE DE SOUZA ABRUNHOSA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "24.052,37",
+    "total_proventos": "30.977,36",
+    "total_descontos": "-6.924,99",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "44.336,90"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "20.209,27"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE DE SOUZA GAMBATI",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "29.765,54",
+    "total_proventos": "29.914,57",
+    "total_descontos": "-149,03",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "32.517,35"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "631,40"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "12.630,78"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.968,38"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE FERNANDES SANTOS",
+    "cargo": "Técnico TECNICO 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "11.344,30",
+    "total_proventos": "11.344,30",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "15.409,13"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE FERREIRA DA SILVA",
+    "cargo": "Assessor CCDAL-4",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "13.824,88",
+    "total_proventos": "13.824,88",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "8.524,54"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.442,82"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE FIGUEIREDO",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "31.575,55",
+    "total_proventos": "36.618,80",
+    "total_descontos": "-5.043,25",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "42.604,99"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "1.039,15"
+      },
+      {
+        "descricao": "Abono de Permanência (4)",
+        "valor": "5.858,37"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "5.215,69"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE FONSECA DO ROSARIO",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO",
+    "salario_liquido": "28.388,84",
+    "total_proventos": "28.388,84",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "30.580,60"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "5.789,53"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.215,69"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE MAGNO BRAGA DE OLIVEIRA",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "13.353,61",
+    "total_proventos": "31.628,37",
+    "total_descontos": "-18.274,76",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "34.836,12"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "870,90"
+      },
+      {
+        "descricao": "Abono de Permanência (4)",
+        "valor": "4.877,06"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "910,33"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE MAIA DO CARMO",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "20.106,31",
+    "total_proventos": "20.106,31",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "20.669,77"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "6.355,71"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE MESSEDER MOURA",
+    "cargo": "Assessor CCDAL-3",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "20.697,40",
+    "total_proventos": "22.005,33",
+    "total_descontos": "-1.307,93",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "9.155,30"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "8.744,32"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "8.652,89"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE TALARICO BARATA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "29.201,73",
+    "total_proventos": "32.255,79",
+    "total_descontos": "-3.054,06",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "44.336,90"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "1.943,15"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.547,42"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE TENORIO DE ALBUQUERQUE",
+    "cargo": "Não se aplica",
+    "tipo": "À DISPOSIÇÃO DO TCE COM CARGO EM COMISSÃO - RPPS",
+    "salario_liquido": "3.322,29",
+    "total_proventos": "3.322,29",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "12.184,46"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.215,69"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE TENORIO ROCHA",
+    "cargo": "Assessor CCDAL-4",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "14.152,10",
+    "total_proventos": "14.152,10",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "8.524,54"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.822,18"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE TORRES AMORA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "13.108,87",
+    "total_proventos": "13.108,87",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "18.239,23"
+      }
+    ]
+  },
+  {
+    "nome": "ALEXANDRE VARGAS PEREIRA",
+    "cargo": "Não se aplica",
+    "tipo": "À DISPOSIÇÃO DO TCE COM ONUS COM GRATIFICAÇÃO - RP",
+    "salario_liquido": "11.581,54",
+    "total_proventos": "15.468,17",
+    "total_descontos": "-3.886,63",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "12.184,46"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "5.725,71"
+      }
+    ]
+  },
+  {
+    "nome": "ALFA MARIA CIDREIRA DA CONCEIÇÃO",
+    "cargo": "Auxiliar Administrativo AUXILIAR 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "21.693,39",
+    "total_proventos": "21.721,99",
+    "total_descontos": "-28,60",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "28.439,89"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.253,01"
+      }
+    ]
+  },
+  {
+    "nome": "ALFREDO RIBEIRO DOS SANTOS NETO",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "17.131,74",
+    "total_proventos": "37.937,15",
+    "total_descontos": "-20.805,41",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "44.336,90"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "5.557,03"
+      },
+      {
+        "descricao": "Abono de Permanência (4)",
+        "valor": "5.858,37"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.253,31"
+      }
+    ]
+  },
+  {
+    "nome": "ALINE DE OLIVEIRA CABRAL",
+    "cargo": "Assistente CCDAL-5",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "10.922,69",
+    "total_proventos": "11.050,43",
+    "total_descontos": "-127,74",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.893,58"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.586,80"
+      }
+    ]
+  },
+  {
+    "nome": "ALINE DE PAULA GONÇALVES",
+    "cargo": "Assistente CCDAL-5",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "10.032,41",
+    "total_proventos": "13.844,84",
+    "total_descontos": "-3.812,43",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.893,58"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.329,07"
+      }
+    ]
+  },
+  {
+    "nome": "ALINE DO NASCIMENTO MACEDO",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO",
+    "salario_liquido": "32.010,50",
+    "total_proventos": "32.220,82",
+    "total_descontos": "-210,32",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "30.877,50"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "296,90"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "12.630,78"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.003,91"
+      }
+    ]
+  },
+  {
+    "nome": "ALINE MARQUES COSTELHA DO AMARAL",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 3",
+    "tipo": "EFETIVO",
+    "salario_liquido": "26.878,39",
+    "total_proventos": "28.060,80",
+    "total_descontos": "-1.182,41",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "24.617,37"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "478,01"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "12.630,78"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.642,93"
+      }
+    ]
+  },
+  {
+    "nome": "ALINE MONNERAT FRANCO ALVES DE CASTRO",
+    "cargo": "Não se aplica",
+    "tipo": "À DISPOSIÇÃO DO TCE COM ONUS COM CARGO EM COMISSÃO - RPS",
+    "salario_liquido": "11.436,82",
+    "total_proventos": "11.564,56",
+    "total_descontos": "-127,74",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "12.184,46"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "468,27"
+      },
+      {
+        "descricao": "Férias (6)",
+        "valor": "1.353,83"
+      }
+    ]
+  },
+  {
+    "nome": "ALINE NOBREGA MARINHO",
+    "cargo": "Não se aplica",
+    "tipo": "À DISPOSIÇÃO DO TCE SEM ÔNUS COM GRATIFICAÇÃO",
+    "salario_liquido": "13.907,44",
+    "total_proventos": "13.907,44",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "12.184,46"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.759,01"
+      },
+      {
+        "descricao": "Férias (6)",
+        "valor": "1.353,83"
+      }
+    ]
+  },
+  {
+    "nome": "ALINE PIRES CARVALHO ASSUF",
+    "cargo": "Procurador do Ministério Público Especial",
+    "tipo": "CONSELHEIROS/PROCURADORES",
+    "salario_liquido": "32.327,39",
+    "total_proventos": "32.327,39",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "41.845,48"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "5.223,73"
+      }
+    ]
+  },
+  {
+    "nome": "ALINE SILVA CESAR",
+    "cargo": "Analista - Área Organizacional ANALISTA 2",
+    "tipo": "EFETIVO",
+    "salario_liquido": "30.023,88",
+    "total_proventos": "30.023,88",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "31.650,87"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "5.992,16"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.047,58"
+      }
+    ]
+  },
+  {
+    "nome": "ALLYENNE DARCY RODRIGUES SANTS DE ALMEIDA",
+    "cargo": "Cedidos",
+    "tipo": "À DISPOSIÇÃO DO TCE COM ONUS COM CARGO EM COMISSÃO - RPS",
+    "salario_liquido": "11.268,43",
+    "total_proventos": "11.460,04",
+    "total_descontos": "-191,61",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "6.544,14"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "3.118,93"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.441,31"
+      }
+    ]
+  },
+  {
+    "nome": "ALMIR DA NOBREGA RAMOS",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "31.195,66",
+    "total_proventos": "31.275,66",
+    "total_descontos": "-80,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "50.370,88"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "12.682,92"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.872,56"
+      }
+    ]
+  },
+  {
+    "nome": "ALMIR JOAQUIM DA SILVA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "41.079,15",
+    "total_proventos": "41.079,15",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "54.424,04"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "32.976,47"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.950,00"
+      }
+    ]
+  },
+  {
+    "nome": "ALMIR RICARDO TEIXEIRA DA SILVA",
+    "cargo": "Assessor CCDAL-4",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "12.605,46",
+    "total_proventos": "12.648,04",
+    "total_descontos": "-42,58",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "8.524,54"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.318,12"
+      }
+    ]
+  },
+  {
+    "nome": "ALOIR ALFRADIQUE MARQUES",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "26.386,28",
+    "total_proventos": "30.849,49",
+    "total_descontos": "-4.463,21",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "42.812,82"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.022,13"
+      }
+    ]
+  },
+  {
+    "nome": "ALOYSIO MARIA TEIXEIRA FILHO",
+    "cargo": "Conselheiro Inativo 6101800",
+    "tipo": "CONSELHEIROS/PROCURADORES - APOSENTADOS",
+    "salario_liquido": "31.500,96",
+    "total_proventos": "31.500,96",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "41.845,48"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "ALOYSIO NEVES GUEDES",
+    "cargo": "Conselheiro Inativo 6101800",
+    "tipo": "CONSELHEIROS/PROCURADORES - APOSENTADOS",
+    "salario_liquido": "40.279,15",
+    "total_proventos": "40.279,15",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "41.845,48"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "ALUISIO GAMA DE SOUZA",
+    "cargo": "Conselheiro Inativo 6101800",
+    "tipo": "CONSELHEIROS/PROCURADORES - APOSENTADOS",
+    "salario_liquido": "37.977,53",
+    "total_proventos": "38.075,76",
+    "total_descontos": "-98,23",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "41.845,48"
+      },
+      {
+        "descricao": "Abono de Permanência (4)",
+        "valor": "10.461,37"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "ALUIZIO BRANDÃO DE ALBUQUERQUE MELLO",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "40.128,89",
+    "total_proventos": "40.128,89",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "45.341,15"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.452,45"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.999,74"
+      }
+    ]
+  },
+  {
+    "nome": "ALVARO DA SILVA FREIRE FILHO",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "40.279,15",
+    "total_proventos": "40.279,15",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "47.824,44"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "ALVARO FERREIRA DOS SANTOS",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "30.922,70",
+    "total_proventos": "31.071,73",
+    "total_descontos": "-149,03",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "34.591,19"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "843,69"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.409,61"
+      }
+    ]
+  },
+  {
+    "nome": "ALVARO GUILHERME MIRANDA",
+    "cargo": "Assessor CCDAL-1",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "20.374,05",
+    "total_proventos": "20.374,05",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "10.416,59"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "12.630,78"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.445,90"
+      }
+    ]
+  },
+  {
+    "nome": "ALVARO PAES LEME PADILHA DE OLIVEIRA",
+    "cargo": "Analista - Área Organizacional ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "30.138,30",
+    "total_proventos": "30.138,30",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "45.667,01"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.310,94"
+      }
+    ]
+  },
+  {
+    "nome": "ALVARO RAFAEL OUVINA MACHADO",
+    "cargo": "Cedidos",
+    "tipo": "À DISPOSIÇÃO DO TCE COM ÔNUS",
+    "salario_liquido": "3.879,63",
+    "total_proventos": "3.900,92",
+    "total_descontos": "-21,29",
+    "proventos": [
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.900,92"
+      }
+    ]
+  },
+  {
+    "nome": "ALVARO RENAULT DA SILVA MORAES",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "20.714,00",
+    "total_proventos": "31.322,20",
+    "total_descontos": "-10.608,20",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "45.667,01"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "13.990,99"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.494,84"
+      }
+    ]
+  },
+  {
+    "nome": "ALVARO RODRIGUES DOS SANTOS",
+    "cargo": "Auxiliar Administrativo AUXILIAR 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "24.284,91",
+    "total_proventos": "27.836,09",
+    "total_descontos": "-3.551,18",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "31.446,55"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "766,99"
+      },
+      {
+        "descricao": "Abono de Permanência (4)",
+        "valor": "4.402,52"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.468,27"
+      }
+    ]
+  },
+  {
+    "nome": "ALZIRA MARIA MACIEL DA SILVA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "32.745,50",
+    "total_proventos": "32.745,50",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "34.143,36"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.240,17"
+      }
+    ]
+  },
+  {
+    "nome": "AMANDA ARUEIRA FERNANDES",
+    "cargo": "Assistente CCDAL-5",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "9.868,03",
+    "total_proventos": "9.931,90",
+    "total_descontos": "-63,87",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.893,58"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "468,27"
+      }
+    ]
+  },
+  {
+    "nome": "AMARO CANDIDO ABRANTES",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "29.406,29",
+    "total_proventos": "29.491,45",
+    "total_descontos": "-85,16",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "32.517,35"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "631,40"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "2.780,39"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "5.730,33"
+      }
+    ]
+  },
+  {
+    "nome": "AMARYLIA FARIA DA SILVA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "31.500,96",
+    "total_proventos": "31.500,96",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "51.265,31"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "17.204,34"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "AMELIA MAIA DA SILVA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 3",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "22.667,14",
+    "total_proventos": "22.707,14",
+    "total_descontos": "-40,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "30.296,54"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "5.069,79"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "AMELIA NORMA CARDOSO DA LUZ",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO",
+    "salario_liquido": "29.602,39",
+    "total_proventos": "29.857,87",
+    "total_descontos": "-255,48",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "33.005,22"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "825,13"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.789,20"
+      }
+    ]
+  },
+  {
+    "nome": "AMELIA SOARES BULCÃO DE VASCONCELOS",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "31.500,96",
+    "total_proventos": "31.500,96",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "49.389,45"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.825,05"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "AMERICO DO COUTO RAMOS",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "32.711,32",
+    "total_proventos": "40.279,15",
+    "total_descontos": "-7.567,83",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "54.427,56"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "32.976,47"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "ANA ALICE GAZAL",
+    "cargo": "Assistente CCDAL-5",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "14.349,70",
+    "total_proventos": "14.498,73",
+    "total_descontos": "-149,03",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.893,58"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.618,27"
+      },
+      {
+        "descricao": "Férias (6)",
+        "valor": "1.416,83"
+      }
+    ]
+  },
+  {
+    "nome": "ANA BENEDITA PEREIRA DA SILVA",
+    "cargo": "Assistente CCDAL-5",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "11.731,46",
+    "total_proventos": "11.731,46",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.893,58"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.215,69"
+      }
+    ]
+  },
+  {
+    "nome": "ANA CARLA D ALMEIDA BASTEIRO",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "32.287,51",
+    "total_proventos": "32.351,38",
+    "total_descontos": "-63,87",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "34.591,19"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "843,69"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "8.744,32"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.615,69"
+      }
+    ]
+  },
+  {
+    "nome": "ANA CAROLINA ACCACIO DE SOUSA",
+    "cargo": "Assistente CCDAL-5",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "11.120,29",
+    "total_proventos": "11.120,29",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "7.893,58"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.656,66"
+      }
+    ]
+  },
+  {
+    "nome": "ANA CAROLINA DE ALMEIDA CAVALCANTI",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 3",
+    "tipo": "EFETIVO",
+    "salario_liquido": "33.182,33",
+    "total_proventos": "33.182,33",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "24.617,37"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "478,01"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "4.857,90"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.133,73"
+      },
+      {
+        "descricao": "Férias (6)",
+        "valor": "9.984,43"
+      }
+    ]
+  },
+  {
+    "nome": "ANA CAROLINA MAROTE LOUREIRO",
+    "cargo": "Assessor CCDAL-4",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "13.550,01",
+    "total_proventos": "13.635,17",
+    "total_descontos": "-85,16",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "8.524,54"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.305,25"
+      }
+    ]
+  },
+  {
+    "nome": "ANA CAROLINA SANTOS DE AQUINO",
+    "cargo": "Assessor CCDAL-4",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "12.821,90",
+    "total_proventos": "12.928,35",
+    "total_descontos": "-106,45",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "8.524,54"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "6.801,14"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "1.598,43"
+      }
+    ]
+  },
+  {
+    "nome": "ANA CATARINA STEINIGER BEHAR",
+    "cargo": "Analista - Área Organizacional ANALISTA 2",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "31.500,96",
+    "total_proventos": "31.500,96",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "50.361,02"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "12.682,92"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "ANA CECILIA DE VINCENZI BRAGA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "31.500,96",
+    "total_proventos": "31.500,96",
+    "total_descontos": "0,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "44.636,18"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "33.595,92"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "3.150,00"
+      }
+    ]
+  },
+  {
+    "nome": "ANA CECILIA SILVA DE ALBUQUERQUE",
+    "cargo": "Assessor CCDAL-3",
+    "tipo": "OCUPANTE EXCLUSIVAMENTE DE CARGO EM COMISSÃO",
+    "salario_liquido": "19.722,51",
+    "total_proventos": "20.041,86",
+    "total_descontos": "-319,35",
+    "proventos": [
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "9.155,30"
+      },
+      {
+        "descricao": "Função Gratificada/Cargo em Comissão (3)",
+        "valor": "8.744,32"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "6.793,69"
+      }
+    ]
+  },
+  {
+    "nome": "ANA CLAUDIA CHAVES DA SILVA",
+    "cargo": "Analista - Área de Controle Externo ANALISTA 1",
+    "tipo": "EFETIVO - APOSENTADOS",
+    "salario_liquido": "30.187,36",
+    "total_proventos": "30.227,36",
+    "total_descontos": "-40,00",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "45.667,01"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "5.246,62"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "2.400,00"
+      }
+    ]
+  },
+  {
+    "nome": "ANA CLAUDIA FERREIRA FRANÇA CORREA",
+    "cargo": "Não se aplica",
+    "tipo": "PENSIONISTA DE CONSELHEIRO COM PARIDADE",
+    "salario_liquido": "-20.279,02",
+    "total_proventos": "-20.279,02",
+    "total_descontos": "0,00",
+    "proventos": []
+  },
+  {
+    "nome": "ANA CLAUDIA WILLNER GUEDES CAMPOS",
+    "cargo": "Técnico TECNICO 1",
+    "tipo": "EFETIVO",
+    "salario_liquido": "30.132,31",
+    "total_proventos": "30.366,50",
+    "total_descontos": "-234,19",
+    "proventos": [
+      {
+        "descricao": "Remuneração Cargo Efetivo (1)",
+        "valor": "32.517,35"
+      },
+      {
+        "descricao": "Outras Verbas Remuneratórias (2)",
+        "valor": "6.156,19"
+      },
+      {
+        "descricao": "Indenizações (5)",
+        "valor": "4.615,69"
+      }
+    ]
+  }
+]
